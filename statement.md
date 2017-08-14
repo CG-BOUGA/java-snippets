@@ -32,4 +32,5 @@ This article is a collection of solutions for these common tasks:
 - [How to send an email](/playground/how-to-send-an-email-in-java)
 - [How to generate random integers/strings](/playground/how-to-generate-random-in-java)
 - [How to hash](/playground/how-to-hash-in-java)
-
+- [How to parse an URL](/playground/how-to-parse-an-url-in-java)
+- [How to encode in base64](/playground/how-to-encode-in-base64-in-java)
