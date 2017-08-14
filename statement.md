@@ -4,7 +4,7 @@ This article is a collection of solutions for these common tasks:
 
 # Files
 - [How to read a file](https://tech.io/playgrounds/9ef6540a09b384fe23a48572cea1e0bb3192/how-to-read-a-text-file-in-java)
-- [How to write to a file](/playground/how-to-write-to-a-file-in-java)
+- [How to write to a file](https://tech.io/playgrounds/336db9f19873a47d8a11e4e9fa65fab20413/how-to-write-to-a-file-in-java)
 - [How to list files in a directory](/playground/how-to-list-files-in-a-directory-in-java)
 - [How to create a temporary file](/playground/how-to-create-a-temporary-file-in-java)
 - [How to copy a file](/playground/how-to-copy-a-file-in-java)
