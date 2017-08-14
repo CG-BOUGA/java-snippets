@@ -1,26 +1,6 @@
-# Welcome!
+Java developers often face the same problems, like reading from a file or knowing if some element is in a list.
 
-This Java template lets you get started quickly with a simple one-page playground.
+This article is a collection of solutions for these common tasks:
 
-You can create a runnable code snippet using the `runnable` keyword:
-
-```java runnable
-// { autofold
-public class Main {
-
-public static void main(String[] args) {
-// }
-
-String message = "Hello World!";
-System.out.println(message);
-
-//{ autofold
-}
-
-}
-//}
-```
-
-# Advanced usage
-
-For more complex playgrounds, you can use this [Java template](https://github.com/TechDotIO/java-template)
+**I/O:**
+- [How to read a text file in Java](https://tech.io/playgrounds/9ef6540a09b384fe23a48572cea1e0bb3192/how-to-read-a-text-file-in-java)
