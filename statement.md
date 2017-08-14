@@ -18,7 +18,7 @@ This article is a collection of solutions for these common tasks:
 - [How to format an Object into a JSON String](/playground/how-to-format-an-object-into-a-json-string-in-java)
 
 # Collections
-- [How to test if a List contains a given value](/playground/how-to-test-list-contains-in-java)
+- [How to test if a List contains a specific value](https://tech.io/playgrounds/39c5ecf8076bb8f1c8a98f9c2bf265671513/how-to-test-if-a-list-contains-a-specific-value)
 - [How to transform apply a function on each element of a List](/playground/how-to-apply-function-on-a-list-in-java)
 
 # Date
