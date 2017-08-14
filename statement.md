@@ -29,7 +29,7 @@ This article is a collection of solutions for these common tasks:
 - [How to send an HTTP request](/playground/how-to-send-http-requests-in-java)
 
 # Miscellaneous
-- [How to encode in base64](https://tech.io/playgrounds/c0e17d06e54999fc7bdec1f0a02388d28413/how-to-encodedecode-in-base64-in-java)
+- [How to encode/decode in base64](https://tech.io/playgrounds/c0e17d06e54999fc7bdec1f0a02388d28413/how-to-encodedecode-in-base64-in-java)
 - [How to send an email](/playground/how-to-send-an-email-in-java)
 - [How to generate random integers/strings](/playground/how-to-generate-random-in-java)
 - [How to hash](/playground/how-to-hash-in-java)
