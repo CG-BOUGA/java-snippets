@@ -25,6 +25,9 @@ This article is a collection of solutions for these common tasks:
 - [How to get the current date](/playground/how-to-get-the-current-date-in-java)
 - [How to format a date](/playground/how-to-get-the-current-date-in-java)
 
+# HTTP
+- [How to send an HTTP request](/playground/how-to-send-http-requests-in-java)
+
 # Miscellaneous
 - [How to send an email](/playground/how-to-send-an-email-in-java)
 - [How to generate random integers/strings](/playground/how-to-generate-random-in-java)
