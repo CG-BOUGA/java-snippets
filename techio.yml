@@ -1,5 +1,4 @@
-title: Java Snippet template
+title: How to ... in Java
 
 plan:
-  - title: Java Snippet
-    statement: statement.md
+  - statement: statement.md
