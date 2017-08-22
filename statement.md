@@ -1,6 +1,6 @@
-Java developers often face the same problems, like reading from a file or knowing if some element is in a list.
+Java developers often face the same problems, like reading from a file or knowing if some value is in a list.
 
-This article is a collection of solutions for these common tasks:
+This article is a collection of solutions for these **common tasks**. This list is not exhaustive, feel free to contribute on [Github](https://github.com/CG-BOUGA/java-snippets).
 
 # Files
 - [How to read a file](https://tech.io/playgrounds/9ef6540a09b384fe23a48572cea1e0bb3192/how-to-read-a-text-file-in-java)
