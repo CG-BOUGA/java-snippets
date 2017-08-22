@@ -18,8 +18,8 @@ This article is a collection of solutions for these **common tasks**. This list 
 - [How to format an Object into a JSON String](/playground/how-to-format-an-object-into-a-json-string-in-java)
 
 # XML
-- [How to parse a String into an XML document](/playground/how-to-parse-a-json-string-in-java)
-- [How to format an Object into a JSON String](/playground/how-to-format-an-object-into-a-json-string-in-java)
+- [How to parse a String into an XML document](/playground/how-to-parse-an-xml-string-in-java)
+- [How to format an Object into an XML String](/playground/how-to-format-an-object-into-an-xml-string-in-java)
 
 # HTTP
 - [How to send an HTTP request](/playground/how-to-send-http-requests-in-java)
