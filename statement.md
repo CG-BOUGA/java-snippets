@@ -15,7 +15,7 @@ This article is a collection of solutions for these **common tasks**. This list 
 
 # JSON
 - [How to parse a String into a JSON object](https://tech.io/playgrounds/fa27fb7d234b4b42f7d84428953190383473/how-to-parse-json-in-java)
-- [How to format an Object into a JSON String](/playground/how-to-format-an-object-into-a-json-string-in-java)
+- [How to format an Object into a JSON String](https://tech.io/playgrounds/dd7a0603745b378e0f8d93be2c2a01274473/how-to-format-an-object-into-json-in-java)
 
 # XML
 - [How to parse a String into an XML document](/playground/how-to-parse-an-xml-string-in-java)
