@@ -14,7 +14,7 @@ This article is a collection of solutions for these **common tasks**. This list 
 - [How to apply a function on each element of a List](https://tech.io/playgrounds/c8311d632f83dc02922a18fa1312c28e4513/how-to-apply-a-function-on-each-element-of-a-list-in-java)
 
 # JSON
-- [How to parse a String into a JSON object](/playground/how-to-parse-a-json-string-in-java)
+- [How to parse a String into a JSON object](https://tech.io/playgrounds/fa27fb7d234b4b42f7d84428953190383473/how-to-parse-json-in-java)
 - [How to format an Object into a JSON String](/playground/how-to-format-an-object-into-a-json-string-in-java)
 
 # XML
