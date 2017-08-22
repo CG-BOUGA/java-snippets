@@ -30,6 +30,7 @@ This article is a collection of solutions for these **common tasks**. This list 
 # Date
 - [How to get the current date](/playground/how-to-get-the-current-date-in-java)
 - [How to format a date](/playground/how-to-get-the-current-date-in-java)
+- [How to parse a date String](/playground/how-to-parse-a-date-in-java)
 
 # Miscellaneous
 - [How to encode/decode in base64](https://tech.io/playgrounds/c0e17d06e54999fc7bdec1f0a02388d28413/how-to-encodedecode-in-base64-in-java)
